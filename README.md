@@ -1,0 +1,1 @@
+A Vermes József, illetve Öveges Miklós fizikaversenyek tételeinek gyűjteménye. Mivel azok nem voltak széles körben elérhetőek, ezért kezdeményeztem ezt a bárki-által használható github repository-t: a tételek nagy része a [következő Google Drive link-ről származik](https://drive.google.com/drive/folders/11B3eOhs1HbWsoFiBs6OhA_iYPRUQt4CZ).
